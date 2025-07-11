@@ -7,7 +7,7 @@ export const MainPage = () => {
   return (
     <>
       <NavBar />
-      <div className="bg-gray-300 h-screen">
+      <div className="bg-gray-300">
         <MainRoutes />
       </div>
       <Footer />
